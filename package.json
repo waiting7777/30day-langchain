@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "day01": "tsx day01-hello-langchain/index.ts"
+    "day01": "tsx day01-hello-langchain/index.ts",
+    "day02": "tsx day02-prompt-templates/index.ts"
   },
   "devDependencies": {
     "typescript": "^5.0.0",
